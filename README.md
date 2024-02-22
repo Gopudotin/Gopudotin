@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gopudotin
 - 👀 I’m interested in web Development
 - 🌱 I’m currently  React Developer Intern
-- 💞️ I’m looking to work with projects and interships
+- 💞️ I’m looking to work with projects 
 - 📫 reach me via gopasprem.mec@gmail.com
 
 <!---
