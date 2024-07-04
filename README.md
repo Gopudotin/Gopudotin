@@ -10,7 +10,7 @@
 
 <div align="center">
   🔭 I’m currently working as an Associate Software Engineer<br>
-  💬 Ask me about Node.js, React, Electron.js, Nest.js or anything by [creating a new issue](https://github.com/Gopudotin/Gopudotin/issues/new/choose)
+  💬 Ask me about Node.js, React, Electron.js, Nest.js or anything by [creating a new issue](https://github.com/Gopudotin/Gopudotin/issues/new?template=question.md)
 </div>
 
 <br/>
