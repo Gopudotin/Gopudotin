@@ -10,8 +10,9 @@
 
 <div align="center">
   🔭 I’m currently working as an Associate Software Engineer<br>
-  💬 Ask me about Node.js, React, Electron.js, Nest.js or anything by [creating a new issue](https://github.com/Gopudotin/Gopudotin/issues/new?template=question.md)
+  💬 Ask me about Node.js, React, Electron.js, Nest.js, or anything by <a href="https://github.com/Gopudotin/Gopudotin/issues/new?assignees=&labels=question&template=question.md&title=%5BQUESTION%5D+">creating a new issue</a>
 </div>
+
 
 <br/>
 
